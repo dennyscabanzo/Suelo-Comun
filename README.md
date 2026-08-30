@@ -25,7 +25,7 @@ Puedes contribuir de las siguientes maneras:
 ---
 
 ## 📄 Estructura del Documento
-El texto completo se encuentra en el archivo [`documento`](./Teoria_de_organizacion_social_informacion_libertad_responsabilidad.pdf). Consta de 25 secciones que abordan desde la definición antropológica de la persona hasta propuestas de primeros experimentos prácticos.
+El texto completo se encuentra en el archivo [`documento`](./Teoria_de_organizacion_social_Segunda_version.pdf). Consta de 32 secciones que abordan desde la definición antropológica de la persona hasta propuestas de primeros experimentos prácticos.
 
 ---
 
